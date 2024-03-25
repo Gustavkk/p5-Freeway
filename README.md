@@ -1,2 +1,2 @@
 # Jogo Freeway
-Teste do jogo Freeway em JavaScript
+Estudo de colisões em base na criação do jogo Freeway em JavaScript
